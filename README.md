@@ -1,6 +1,6 @@
 ## [Project 1: Exploratory Data Analysis - TTC Subway Delay]
 ### Introduction
-![image](https://github.com/1Gucci/An_Bui_portfolio/assets/58675665/ee54cdf1-fb64-4f80-8360-73642c6fb7bf)
+![image](https://github.com/anbui-da/TTC-Subway-Delay/assets/58675665/ee54cdf1-fb64-4f80-8360-73642c6fb7bf)
 
 Public transportation systems, including buses, streetcars, and subways, play a crucial role in keeping Toronto moving. However, in recent years, wait times have ballooned. As a commuter keen to better understand the intricacies of Toronto's public transportation network, I embarked on a comprehensive data analysis project focused on TTC Subway delays. With that objective, I conducted exploratory data analysis, time series evaluation, the project unveiled the patterns of TTC Subway delay. he "TTC Suway delay data" is downloaded from the open portal of City of Toronto which includes 19,895 entries and 10 columns which recorded everday incident, capturing crucial features such as the date, time, station, line, codes and the length of delay in minutes.
 
